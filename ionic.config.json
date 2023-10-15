@@ -1,0 +1,8 @@
+{
+  "name": "Language",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "851d94f1"
+}
